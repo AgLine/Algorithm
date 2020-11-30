@@ -1,7 +1,7 @@
+package D2;
 import java.util.Scanner;
 
 public class Simple369 {
-    
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) throws Exception {
         int N;
@@ -20,5 +20,4 @@ public class Simple369 {
             System.out.print(str+" ");
         }
     }
-    
 }
