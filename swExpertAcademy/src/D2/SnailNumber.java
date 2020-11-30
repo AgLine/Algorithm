@@ -41,7 +41,7 @@ public class SnailNumber {
         /*
         4 33 22 11
 
-        01 02 03 04  col=0 row=3 n=4 flag=1    
+        01 02 03     col=0 row=3 n=4 flag=1    
         13 23 33     col=3 row=3 n=3 flag=1
         flag= -1 n=3
         32 31 30     co1=3 row=0 n=3 flag=-1
