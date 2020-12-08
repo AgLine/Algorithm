@@ -49,10 +49,10 @@ public class Word {
                 for(int j=0;j<n+2;j++){
                     if(j+m+1>=n+2){//배열범위를 넘어감
                         break;
-                        }                   
-                        if((sumString[i][k].substring(j,j+m+2)).equals("0"+target+"0")){
-                            cnt++;
-                        }
+                    }                   
+                    if((sumString[i][k].substring(j,j+m+2)).equals("0"+target+"0")){
+                        cnt++;
+                    }
                 }
             }
         }
